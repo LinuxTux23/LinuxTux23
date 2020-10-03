@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Coding in:
 - Python
+- JavaScript
+- HTML / CSS
 - C#
 - PHP
 - BASH
