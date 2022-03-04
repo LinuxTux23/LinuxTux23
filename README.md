@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benedikt</h1>
-<h3 align="center">A passionated Web-Backend Developer interested in DevOps technologies</h3>
+<h3 align="center">A passionate Web-Backend Developer interested in DevOps technologies</h3>
 
 - 👨‍💻 Link to my self hosted Gitea instance: [https://git.benedikt.tech](https://git.benedikt.tech)
 
