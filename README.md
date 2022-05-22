@@ -3,7 +3,7 @@
 
 - 👨‍💻 Link to my self hosted Gitea instance: [https://git.benedikt.tech](https://git.benedikt.tech)
 
-- 💬 Ask me about: **GNU/Linux Shell, selfhosting services**
+- 💬 Ask me about: **GNU/Linux Shell, selfhosting services, docker/container-technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
