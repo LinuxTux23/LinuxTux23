@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://discordapp.com/users/349909058620489740">... go ahead and me a message on - Discord -</a>
+<a href="https://discordapp.com/users/349909058620489740">... go ahead and message me on - Discord -</a>
 
 <a href="mailto:webmaster@benedikt.tech">... or send me an - e-mail -</a>
 
