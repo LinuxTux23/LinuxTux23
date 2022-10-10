@@ -9,7 +9,7 @@
 
 ... go ahead and message me on - <a href="https://discordapp.com/users/349909058620489740">Discord</a> -
 
-... or send me an - <a href="mailto:webmaster@benedikt.tech">e-mail</a>-
+... or send me an - <a href="mailto:webmaster@benedikt.tech">E-Mail</a>-
 
 <p align="left">
 </p>
@@ -143,10 +143,3 @@
     />
   </a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linuxtux23&show_icons=true&theme=dark&locale=en&layout=compact" alt="linuxtux23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linuxtux23&show_icons=true&theme=dark&locale=en" alt="linuxtux23" /></p>
-
-
