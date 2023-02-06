@@ -16,7 +16,16 @@
 
 <h3 align="left">Languages and Tools, I have used the most:</h3>
 
+
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1.5rem">
+  <a href="https://php.net" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"
+      alt="php"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
