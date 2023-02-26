@@ -55,14 +55,6 @@
       height="40"
     />
   </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img
-      src="https://angular.io/assets/images/logos/angular/angular.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -95,26 +87,10 @@
       height="40"
     />
   </a>
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img
-      src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"
-      alt="elasticsearch"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img
-      src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"
-      alt="grafana"
       width="40"
       height="40"
     />
