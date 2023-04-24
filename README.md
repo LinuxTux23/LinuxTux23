@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Benedikt</h1>
 <h3 align="center">A passionate Web-Backend Developer interested in DevOps technologies</h3>
 
-- 👨‍💻 Link to my self hosted Gitea instance: [https://git.benedikt.tech](https://git.benedikt.tech)
-
 - 💬 Ask me about: **GNU/Linux Shell, selfhosting services, docker/container-technologies**
 
 <h3 align="left">Connect with me:</h3>
 
 ... go ahead and message me on - <a href="https://discordapp.com/users/349909058620489740">Discord</a> -
 
-... or send me an - <a href="mailto:webmaster@benedikt.tech">E-Mail</a>-
+... or send me an - <a href="mailto:ziqtjrsesa@use.startmail.com">E-Mail</a>-
 
 <p align="left">
 </p>
