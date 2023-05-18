@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benedikt</h1>
-<h3 align="center">A passionate Web-Backend Developer interested in DevOps technologies</h3>
+<h3 align="center">A passionate web-backend developer interested in DevOps technologies</h3>
 
 - 💬 Ask me about: **GNU/Linux Shell, selfhosting services, docker/container-technologies**
 
@@ -7,13 +7,9 @@
 
 ... go ahead and message me on - <a href="https://discordapp.com/users/349909058620489740">Discord</a> -
 
-... or send me an - <a href="mailto:ziqtjrsesa@use.startmail.com">E-Mail</a>-
+... or send me an - <a href="mailto:ziqtjrsesa@use.startmail.com">E-Mail</a> -
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools, I have used the most:</h3>
-
+<h3 align="left">Languages and Tools, I'm familiar with:</h3>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1.5rem">
   <a href="https://php.net" target="_blank" rel="noreferrer" style="text-decoration: none;">
@@ -121,6 +117,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"
+      alt="c-sharp"
       width="40"
       height="40"
     />
