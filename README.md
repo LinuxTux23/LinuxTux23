@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Benedikt</h1>
-<h3 align="center">A passionate web-backend developer interested in DevOps technologies</h3>
+<h1 style="text-align: center">Hi 👋, I'm Benedikt</h1>
+<h3 style="text-align: center">A passionate web-backend developer interested in DevOps technologies</h3>
 
-- 💬 Ask me about: **GNU/Linux Shell, selfhosting services, docker/container-technologies**
+<div style="margin-top:.5rem; text-align: center">
+  - 💬 Ask me about: **GNU/Linux Shell, selfhosting services, docker/container-technologies**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 style="margin-top:1.5rem; text-align: center;">Languages and Tools, I'm familiar with:</h3>
 
-... go ahead and message me on - <a href="https://discordapp.com/users/349909058620489740">Discord</a> -
-
-... or send me an - <a href="mailto:ziqtjrsesa@use.startmail.com">E-Mail</a> -
-
-<h3 align="left">Languages and Tools, I'm familiar with:</h3>
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1.5rem">
+<div style="
+  margin-top: 1.5rem;
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 40px 40px 40px 40px 40px 40px 40px;
+  gap: 1rem;
+  ">
   <a href="https://php.net" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"
@@ -65,10 +67,26 @@
       height="40"
     />
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash"
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"
+      alt="c-sharp"
       width="40"
       height="40"
     />
@@ -81,10 +99,10 @@
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
+      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+      alt="bash"
       width="40"
       height="40"
     />
@@ -109,22 +127,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
       alt="nginx"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"
-      alt="c-sharp"
       width="40"
       height="40"
     />
