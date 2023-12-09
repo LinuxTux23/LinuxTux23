@@ -2,7 +2,7 @@
 <h3 style="text-align: center">A passionate web-backend developer interested in DevOps technologies</h3>
 
 <div style="margin-top:.5rem; text-align: center">
-  - 💬 Ask me about: GNU/Linux Shell, selfhosting services, <a href="https://www.reddit.com/r/homelab/" target="_blank">homelabbing</a> , docker/container-technologies
+  - 💬 Ask me about: GNU/Linux Shell, selfhosting services, <a href="https://www.reddit.com/r/homelab/">homelabbing</a> , docker/container-technologies
 </div>
 
 <h3 style="margin-top:1.5rem; text-align: center;">Languages and Tools, I'm familiar with:</h3>
